@@ -23,4 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 .env
-test-server.json
+test-server.js
